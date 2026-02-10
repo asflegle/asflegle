@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Location: Atlanta Georgia, USA
+
+My Favorite Fluorophore/Metal-Isotope: BV421
+
+Previous Coding Experience: not much to none 
+
+What I Hope to Get From This Course: A faster way to make flow heat maps !!
